@@ -11,6 +11,9 @@
 # Get a key and secret for the production server
 #
 #Update the first 5 variables with your information
+#Developer key is:
+#Key: UzQxLikm_46KxDFnbjN7cQjmw6wocia
+#Secret: 46L26ydpkwMaKZV6uVdDWe
 
 domain="domain.com" # domain name
 name="name"     # name of A record to update
